@@ -18,4 +18,4 @@
 - 📧 Email: myemail@gmail.com
 - 💬 Telegram: @myusername
 
-![Моё фото](unnamed.jpg)
+<img width="1696" height="2528" alt="unnamed" src="https://github.com/user-attachments/assets/4422ac31-52d0-49f4-b68f-58056bc0e1ed" />
